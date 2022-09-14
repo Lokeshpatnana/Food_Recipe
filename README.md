@@ -1,1 +1,1 @@
-[Food Recipe](https://replit.com/@LOKESWARARAO/Food-Recipe#index.html)
+[Food Recipe](https://food-recipe.lokeswararao.repl.co/)
